@@ -18,23 +18,23 @@
 
 ## DAY 3
 1. Transfer the culture medium  
-   - 45 mL × 5 (into 50 mL tube) for Maxiprep
-   - 5 mL (into 15 mL tube) for Miniprep
-2. Centrifuge Maxiprep tube 6000 × g for 15 min at 4 °C. Remove the supernatant and store the pellet at -20 °C.
-3. Centrifuge Miniprep tube 6000 × g for 15 min at 4 °C. Remove supernatant.
-###### In the following, use QIAGEN Plasmid Kit.
-Chill Buffer P1, P3 to 4 °C. Heat Buffer P2 to 37 °C.
-4. Add 250 µL Buffer P1 to the pellet and dissolve the pellet in the solution (by pipetting and vortex). Transfer the suspension to a 2 mL Eppendorf.
-5. Add 250 µL Buffer P2 to the suspension and mix by inverting 4-6 times. (If LyseBlue is added to P1, the suspension turns to blue.)
-6. Add 250 µL Buffer P3 and invert 4-6 times. (If LyseBlue is added to P1, the suspension turns from blue to clear.)
-7. Centrifuge > 13000 rpm for 10 min at 4 °C, and apply the supernatant to QIAprep Spin Columns.
-8. Centrifuge for 1 min and dispose of flow-through liquid.
-9. Add 500 µL Buffer PB and centrifuge for 1 min and dispose of flow-through liquid.
-10. Add 750 µL Buffer PE and centrifuge for 1 min and dispose of flow-through liquid.
-11. Centrifuge for 1 min and completely remove any residual buffer.
-12. Set the upper column in a clean Eppendorf and apply 50 µL Buffer EB. Wait 1 min and centrifuge for 1 min.
-13. Determine the concentration of the plasmid by absorbance measurement using 1 µL solution.
-14. Digest the plasmid with the appropriate enzyme (which can cut one or two part of the plasmid) and confirm the transformation has taken place correctly. (Check that it is single strand or that part of it is cut out.)  
+   - 45 mL × 5 (into 50 mL tube) for Maxiprep  
+   - 5 mL (into 15 mL tube) for Miniprep  
+2. Centrifuge Maxiprep tube 6000 × g for 15 min at 4 °C. Remove the supernatant and store the pellet at -20 °C.  
+3. Centrifuge Miniprep tube 6000 × g for 15 min at 4 °C. Remove supernatant.  
+###### In the following, use QIAGEN Plasmid Kit.  
+Chill Buffer P1, P3 to 4 °C. Heat Buffer P2 to 37 °C.  
+4. Add 250 µL Buffer P1 to the pellet and dissolve the pellet in the solution (by pipetting and vortex). Transfer the suspension to a 2 mL Eppendorf.  
+5. Add 250 µL Buffer P2 to the suspension and mix by inverting 4-6 times. (If LyseBlue is added to P1, the suspension turns to blue.)  
+6. Add 250 µL Buffer P3 and invert 4-6 times. (If LyseBlue is added to P1, the suspension turns from blue to clear.)  
+7. Centrifuge > 13000 rpm for 10 min at 4 °C, and apply the supernatant to QIAprep Spin Columns.  
+8. Centrifuge for 1 min and dispose of flow-through liquid.  
+9. Add 500 µL Buffer PB and centrifuge for 1 min and dispose of flow-through liquid.  
+10. Add 750 µL Buffer PE and centrifuge for 1 min and dispose of flow-through liquid.  
+11. Centrifuge for 1 min and completely remove any residual buffer.  
+12. Set the upper column in a clean Eppendorf and apply 50 µL Buffer EB. Wait 1 min and centrifuge for 1 min.  
+13. Determine the concentration of the plasmid by absorbance measurement using 1 µL solution.  
+14. Digest the plasmid with the appropriate enzyme (which can cut one or two part of the plasmid) and confirm the transformation has taken place correctly. (Check that it is single strand or that part of it is cut out.)    
 ||Restriction Enzyme (+)|Restriction Enzyme (-)|  
 | :---: | :---: | :---: |
 |DNA| 8 µL | 8 µL |  
@@ -43,7 +43,7 @@ Chill Buffer P1, P3 to 4 °C. Heat Buffer P2 to 37 °C.
 |milliQ   | appropriate amount  | appropriate amount   |
 |SUM   | 20 µL | 20 µL |
 
-15. Incubate at 37 °C for 2 hours. Add 4 µL 6 × loading buffer and run electrophoresis using 10 µL solution and 1 % agarose gel. Check that the band is correct.
+15. Incubate at 37 °C for 2 hours. Add 4 µL 6 × loading buffer and run electrophoresis using 10 µL solution and 1 % agarose gel. Check that the band is correct.  
 
 ## DAY 4
 1. If DAY 3 miniprep plasmid is the correct plasmid, melt the Maxiprep pellet in 37 °C water bath.
