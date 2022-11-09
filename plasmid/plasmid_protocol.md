@@ -5,7 +5,7 @@
 2. Melt E.coli competent cells and SOC medium on ice (take few hours. If you don't have time, melt at RT and put on ice). Transfer 50 µL melted competent cell into 2 mL Eppendorf tube. Incubate SOC medium at 37 °C.
 3. Add 2 µL plasmid solution into competent cell and incubate on ice for 30 min.
 4. Incubate for 45-55 sec in 42 °C water bath and immediately return on ice.
-5. After about 1 min, add 448 µL incubated SOC medium and shake them for 1 hour at 37 °C.
+5. After about 1 min on ice, add 448 µL incubated SOC medium and shake them for 1 hour at 37 °C.
 6. Spread 50 µL or 100 µL solution onto agar medium.
 7. Incubate overnight(12-16h) at 37 °C.
 
