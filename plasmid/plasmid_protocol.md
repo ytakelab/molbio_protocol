@@ -22,7 +22,7 @@
    - 5 mL (into 15 mL tube) for Miniprep  
 2. Centrifuge Maxiprep tube 6000 × g for 15 min at 4 °C. Remove the supernatant and store the pellet at -20 °C.  
 3. Centrifuge Miniprep tube 6000 × g for 15 min at 4 °C. Remove supernatant.  
-###### In the following, use QIAGEN Plasmid Kit.  
+### In the following, use QIAGEN Plasmid Kit.  
 Chill Buffer P1, P3 to 4 °C. Heat Buffer P2 to 37 °C.  
 4. Add 250 µL Buffer P1 to the pellet and dissolve the pellet in the solution (by pipetting and vortex). Transfer the suspension to a 2 mL Eppendorf.  
 5. Add 250 µL Buffer P2 to the suspension and mix by inverting 4-6 times. (If LyseBlue is added to P1, the suspension turns to blue.)  
@@ -47,7 +47,7 @@ Chill Buffer P1, P3 to 4 °C. Heat Buffer P2 to 37 °C.
 
 ## DAY 4
 1. If DAY 3 miniprep plasmid is the correct plasmid, melt the Maxiprep pellet in 37 °C water bath.
-###### In the following, use QIAGEN Plasmid Kit.
+### In the following, use QIAGEN Plasmid Kit.
 2. Add 2 mL P1 to the pellet and dissolve the pellet by vortex. Combine 5 bottles of suspension in one tube.
 3. Add 10 mL P2, invert 4-6 times and wait for 5 min exactly. (If LyseBlue is added to P1, the suspension turns to blue uniformly.)
 4. Add 10 mL P3 (N3) and invert 4-6 times. (If LyseBlue is added to P1, the suspension turns from blue to clear.) Leave it on ice for 30 min.
