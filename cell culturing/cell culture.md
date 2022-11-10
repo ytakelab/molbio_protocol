@@ -29,4 +29,8 @@
       - One dish should contain 1.0×10<sup>5</sup> ~ 2.0×10<sup>5</sup>. (depending on how long you want to wait for the next cell passaging)
 13. Incubate at 37 °C. (Write down the information on google spread sheet.)
 
+
+
+
+
 2022.11.10 Kaede Yoshida
