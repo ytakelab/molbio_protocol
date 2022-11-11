@@ -1,6 +1,6 @@
 # Plasmid purification protocol
 
-## DAY 1 (Starting at 18:00 is recommended)
+## DAY 1 (Starting at 16:00 is recommended)
 1. Dissolve plasmid into 20 µL TE (Tris- EDTA Buffer).
 2. Melt E.coli competent cells and SOC medium on ice (take few hours. If you don't have time, melt at RT and put on ice). Transfer 50 µL melted competent cell into 2 mL Eppendorf tube. Incubate SOC medium at 37 °C.
 3. Add 2 µL plasmid solution into competent cell and incubate on ice for 30 min.
