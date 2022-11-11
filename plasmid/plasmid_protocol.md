@@ -32,7 +32,7 @@ Chill Buffer P1, P3 to 4 °C. Heat Buffer P2 to 37 °C.
 9. Add 500 µL Buffer PB and centrifuge for 1 min and dispose of flow-through liquid.  
 10. Add 750 µL Buffer PE and centrifuge for 1 min and dispose of flow-through liquid.  
 11. Centrifuge for 1 min and completely remove any residual buffer.  
-12. Set the upper column in a clean Eppendorf and apply 50 µL Buffer EB. Wait 1 min and centrifuge for 1 min.  
+12. Set the upper column in a clean Eppendorf and apply 50 µL Buffer EB. Wait 10 min and centrifuge for 1 min.  
 13. Determine the concentration of the plasmid by absorbance measurement using 1 µL solution.  
 14. Digest the plasmid with the appropriate enzyme (which can cut one or two part of the plasmid) and confirm the transformation has taken place correctly. (Check that it is single strand or that part of it is cut out.)    
 ||Restriction Enzyme (+)|Restriction Enzyme (-)|  
