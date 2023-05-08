@@ -1,3 +1,12 @@
+# AAV production  
+20230508 Kaede Yoshida  
+
+##### Reference  
+- Challis, R.C., Ravindra Kumar, S., Chan, K.Y. et al. Systemic AAV vectors for widespread and targeted gene delivery in rodents. Nat Protoc 14, 379–414 (2019).
+- 「決定版　ウイルスベクターによる遺伝子導入実験ガイド」,2020, Hirokazu Hirai et al.
+
+
+
 ## DAY1 -cell preparation-
 Seed two full-confluent 10 cm dishes of HEK293T cells into a 24.5 cm square dish (60 mL medium volume).
 
