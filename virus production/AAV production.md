@@ -70,38 +70,41 @@ a 50-ml conical centrifuge tube and vortex the solution.
 |  Benzonase HC  |  2 µL  |  26.31 U/mL
 |  PBS(-)  |  19 mL |  -- |
 
-6. Warm up in a water bath at 37°C for 30 minutes.(Benzonase Treatment)  
+6. Warm up in a water bath at 37°C for 30 minutes.(Benzonase Treatment)  <br>
 **At this point, solution can be stored at 4°C for a few days.**
+<br>
+
 7. Make following solutions.
 
 **1 M NaCl/PBS-MK buffer**
 
--  |  volume  
---|--  
-NaCl  |  5.84 mg  
-MgCl<sub>2</sub>  |  26.3 mg  
-KCl  |  14.91 mg  
-PBS(-)  | 100 mL  
+|-  |  volume  
+|--|--  
+|NaCl  |  5.84 mg  
+|MgCl<sub>2</sub>  |  26.3 mg  
+|KCl  |  14.91 mg  
+|PBS(-)  | 100 mL  
 
   Sterilize by passing through a 0.22-μm filter and store at 4 °C.
 <br>
 <br>
-**1x PBS-MK buffer**
-  -  |  volume  
-  --|--  
-  MgCl<sub>2</sub>  |  26.3 mg  
-  KCl  |  14.91 mg  
-  PBS(-)  |  100 mL  
+**1x PBS-MK buffer**  
+
+|-  |  volume  
+|--|--  
+|MgCl<sub>2</sub>|  26.3 mg  
+|KCl  |  14.91 mg  
+|PBS(-)  | 100 mL  
 
 Sterilize by passing through a 0.22-μm filter and store at 4 °C.
 <br>
 <br>
 **Phenol Red Solution 0.5%**
 
--  | volume  
---|--  
-phenol red  |  50 mg  
-milli Q | 10 mL  
+|-  | volume  
+|--|--  
+|phenol red  |  50 mg  
+|milli Q | 10 mL  
 
 If the color is weak, put more phenol red.
 
@@ -121,7 +124,7 @@ layers. Take care to avoid bubbles. There will be four tubes in total.
 
 10.Carefully add up to 5 mL of clarified AAV solution on top of the gradient. Use PBS(-) to top off the tube.
 
-![Image](/images/2023/03/AAV centrifuge.png)
+![AAVcentrifuge](images/AAVcentrifuge.png "centrifuge")
 
 11. Draw a line with a marker on the boundary between 25% and 40%, 40% and 60%.
 12. Add PBS(-) to the tubes so that weights match up to 10 mg order. (If you don't do this point, you will destroy the centrifuger and pay huge money!!!)
