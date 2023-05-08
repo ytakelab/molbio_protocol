@@ -26,11 +26,7 @@
 12. Spread the cell solution on the new dish so that the dish follows:
       - Cell suspension : medium = 1:9 ~ 1:20
       - The amount of medium should be 7~12 mL.
-      - One dish should contain 1.0×10<sup>5</sup> ~ 2.0×10<sup>5</sup>. (depending on how long you want to wait for the next cell passaging)
+      - One dish should contain 1.0×10<sup>5</sup> ~ 2.0×10<sup>5</sup>. (depending on how long you want to wait the next cell passaging)
 13. Incubate at 37 °C. (Write down the information on google spread sheet.)
-
-
-
-
 
 2022.11.10 Kaede Yoshida
