@@ -124,7 +124,7 @@ layers. Take care to avoid bubbles. There will be four tubes in total.
 
 10.Carefully add up to 5 mL of clarified AAV solution on top of the gradient. Use PBS(-) to top off the tube.
 
-![AAVcentrifuge](images/AAVcentrifuge.png "centrifuge")
+![AAVcentrifuge](AAVcentrifuge.png "centrifuge")
 
 11. Draw a line with a marker on the boundary between 25% and 40%, 40% and 60%.
 12. Add PBS(-) to the tubes so that weights match up to 10 mg order. (If you don't do this point, you will destroy the centrifuger and pay huge money!!!)
